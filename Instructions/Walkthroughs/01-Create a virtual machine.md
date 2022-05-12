@@ -2,12 +2,12 @@
 wts:
   title: 01 — Создание виртуальной машины на портале (10 мин)
   module: Module 02 - Core Azure Services (Workloads)
-ms.openlocfilehash: 2e2a613f965d41405b025166876b28be391f10d8
-ms.sourcegitcommit: 26c283fffdd08057fdce65fa29de218fff21c7d0
+ms.openlocfilehash: 010d6a19a66f6ac92627720379a4eb850b2ee423
+ms.sourcegitcommit: 4a0bfef63f98844f16e2a364d156e96382b8fac5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908374"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144556874"
 ---
 # <a name="01---create-a-virtual-machine-in-the-portal-10-min"></a>01 — Создание виртуальной машины на портале (10 мин)
 
@@ -18,7 +18,7 @@ ms.locfileid: "137908374"
 # <a name="task-1-create-the-virtual-machine"></a>Задача 1. Создание виртуальной машины 
 1. Войдите на портал Azure: **https://portal.azure.com**
 
-3. В колонке **Все службы** в меню «Портал», найдите и выберите элемент **Виртуальные машины**, а затем щелкните **+Добавить, +Создать, +Новый** и выберите **Виртуальная машина** в раскрывающемся списке.
+3. В колонке **Все службы** в меню «Портал», найдите и выберите элемент **Виртуальные машины**, а затем щелкните **+Создать** и выберите **+Виртуальная машина Azure** в раскрывающемся списке.
 
 4. На вкладке **Основные** укажите следующие сведения (для остальных параметров оставьте значения по умолчанию):
 
